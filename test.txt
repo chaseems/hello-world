@@ -2,3 +2,5 @@ test it. not auto.
 test 01, change 1 time.
 test 02, change something not needed.
 test 03, change 2 times.
+
+I want to merge 2 branch.
