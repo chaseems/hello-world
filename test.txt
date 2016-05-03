@@ -4,3 +4,4 @@ test 02, change something not needed.
 test 03, change 2 times.
 
 I want to merge 2 branch.
+I am use Atom edit this text file, and use no2 branch upload it now.
